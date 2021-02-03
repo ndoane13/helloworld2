@@ -6,7 +6,8 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("That is all, I take my leave!");
         System.out.println("Hey Alice!");
-        System.out.println("Hey bob!")
+        System.out.println("Hey bob!");
+        System.out.println("Hey charlie!");
     }
 
 }
