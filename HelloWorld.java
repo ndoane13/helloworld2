@@ -11,6 +11,7 @@ public class HelloWorld {
         System.out.println("Hey Denise!");
         System.out.println("Hey Ester!");
         System.out.println("The current time is 12:23");
+        System.out.println("The current remaining memory is 64%");
     }
 
 }
